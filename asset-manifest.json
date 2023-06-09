@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sidenav/static/css/main.cc8e866c.css",
+    "main.js": "/sidenav/static/js/main.d5ef9005.js",
+    "index.html": "/sidenav/index.html",
+    "main.cc8e866c.css.map": "/sidenav/static/css/main.cc8e866c.css.map",
+    "main.d5ef9005.js.map": "/sidenav/static/js/main.d5ef9005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc8e866c.css",
+    "static/js/main.d5ef9005.js"
+  ]
+}
