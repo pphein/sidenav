@@ -6,15 +6,17 @@
 
 import Content from "./Content"
 
-// const Home = () => {
-//     return (
-//         <Content  />
-//     )
-// }
+const Home = () => {
+    return (
+        <Content name="Dashboard"  />
+    )
+}
 
-export default {
+const home = {
     props: {
         path: '/',
-        element: <Content name="Home" />
+        element: <Home />
     }
 }
+
+export default home

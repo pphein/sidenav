@@ -10,9 +10,11 @@ const Statistics = () => {
   )
 }
 
-export default {
+const statistics = {
   props: {
       path: '/statistics',
       element: <Statistics />
   }
 }
+
+export default statistics

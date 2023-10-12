@@ -3,9 +3,11 @@ import Home from "./Home";
 import Settings from "./Settings";
 import Statistics from "./Statistics";
 
-export default [
+const content = [
   Home,
   Explore,
   Statistics,
   Settings
 ];
+
+export default content

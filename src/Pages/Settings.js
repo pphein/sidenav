@@ -10,9 +10,11 @@ const Settings = () => {
   )
 }
 
-export default {
+const settings = {
   props: {
       path: '/settings',
       element: <Settings />
   }
 }
+
+export default settings
